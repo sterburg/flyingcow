@@ -3,6 +3,6 @@
 <title>The Circus</title>
 </head>
 <body>
-<img src="flyingcow.jpg" />
+<img src="standingcow.jpg" />
 </body>
 </html>

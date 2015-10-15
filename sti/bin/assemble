@@ -1,3 +1,4 @@
 #!/bin/sh
 
+mkdir -p /var/www/html
 cp -a /tmp/src/* /var/www/html
